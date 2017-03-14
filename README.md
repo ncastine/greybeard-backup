@@ -17,13 +17,13 @@ move said archive to a flash drive and lock it in a
 
 ## FAQ
 
-### [What?](#what?)
+### [What?](#what)
 
-[This.](#what?)
+[It's at the top for a reason.](#what)
 
 ### Do you actually use this?
 
-Yes. But I *also* use
+Yes. But I **also** use
 <a href="https://en.wikipedia.org/wiki/Time_Machine_(macOS)">Time Machine</a>
 on my
 [MacBook Air](http://www.apple.com/macbook-air).
@@ -34,5 +34,7 @@ It preserves symbolic links. So you can copy your backup archive file onto a
 filesystem that does not support them like
 [exFAT](https://en.wikipedia.org/wiki/ExFAT).
 
+
 <hr>
-Released under the [BSD license](LICENSE.txt).
+
+Released under a [BSD license](LICENSE.txt).

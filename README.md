@@ -11,9 +11,8 @@ This is **not** intended as your primary backup solution. It is only the
 backup for when the complex full featured systems fail.
 
 All it does is make a simple compressed Tar archive of a given directory. The
-current user home directory is assumed by default. You can then for example
-move said archive to a flash drive and lock it in a
-[fire safe](https://en.wikipedia.org/wiki/Safe#Fire-resistant_safes).
+current user home directory is assumed by default. You can then, for example,
+move said archive to a flash drive and store it somewhere safe.
 
 ## FAQ
 
@@ -25,8 +24,7 @@ move said archive to a flash drive and lock it in a
 
 Yes. But I **also** use
 <a href="https://en.wikipedia.org/wiki/Time_Machine_(macOS)">Time Machine</a>
-on my
-[MacBook Air](http://www.apple.com/macbook-air).
+on my MacBook.
 
 ### Why Tar?
 
@@ -34,7 +32,6 @@ It preserves symbolic links. So you can copy your backup archive file onto a
 filesystem that does not support them like
 [exFAT](https://en.wikipedia.org/wiki/ExFAT).
 
-
-<hr>
+-----------------------------------------------------------------------------
 
 Released under a [BSD license](LICENSE.txt).

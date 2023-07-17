@@ -1,24 +1,18 @@
 # Greybeard Backup
 
-## What?
-
 A _simple_ backup script for
 [the greybeard](http://pastebin.com/kMZ4hDf2 "Greybeard defined").
 No frills. No proprietary magic. And **no security**. If you need security you
 will have to encrypt the resulting archive file yourself.
 
-This is **not** intended as your primary backup solution. It is only the
-backup for when the complex full featured systems fail.
+This is **not** intended as your primary backup solution. It is only a
+_supplemental_ backup for when the complex full featured systems fail.
 
-All it does is make a simple compressed Tar archive of a given directory. The
-current user home directory is assumed by default. You can then, for example,
+All it does is make a compressed Tar archive of a given directory. The
+current user home directory is assumed by default. You may then, for example,
 move said archive to a flash drive and store it somewhere safe.
 
 ## FAQ
-
-### [What?](#what)
-
-[It's at the top for a reason.](#what)
 
 ### Do you actually use this?
 
